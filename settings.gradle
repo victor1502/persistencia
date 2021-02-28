@@ -1,0 +1,7 @@
+include ':actividad4'
+include ':clickmee'
+include ':app:clicks'
+include ':app:clickme'
+include ':ciclodevidasaveinstance'
+include ':app'
+rootProject.name = "My Application"
